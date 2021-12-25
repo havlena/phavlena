@@ -46,7 +46,7 @@ Server 2000 -- 2019, Windows OS 3.1 -- 11, macOS / OS X.
 
  **Note:**
 
-Some systems used in a work-related capacity: HTML, CSS, CLI, Google
+Systems used in a work-related capacity: HTML, CSS, CLI, Google
 Cloud, Windows OS and Server, MS Office, and Unix. Hotel Property
 Management Systems used: Holidex, Hilton OnQ, Micros Opera, Oracle PMS,
 MARSHA, FOSSEE, Brilliant, and RoomKeyPMS.
