@@ -53,9 +53,7 @@ Problem Resolution, Research, Social Media, Time Management.
 **Current Projects:** Learning Go and Python, Data Analysis, AWS, Azure,
 and Google Cloud. Developing a Personal and Portfolio Website.
 
- **Technology used in a Direct Work-Related Capacity:**
-
-HTML, CSS, CLI, Google Workspace, Windows OS and Server, MS Office, and
+ **Technology used in a Direct Work-Related Capacity:** HTML, CSS, CLI, Google Workspace, Windows OS and Server, MS Office, and
 Unix.
 
 **Hotel Property Management Systems:** Holidex, Hilton OnQ, Micros
