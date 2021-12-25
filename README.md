@@ -1,23 +1,23 @@
 # Education
 
-> Peter T Havlena
->
-> [pthavlena\@gmail.com \|](mailto:pthavlena@gmail.com) (616) 202-8143
-> \| Pellston, Michigan
->
-> **Ferris State University** Big Rapids, MI
+ Peter T Havlena
+
+ [pthavlena\@gmail.com \|](mailto:pthavlena@gmail.com) (616) 202-8143
+ \| Pellston, Michigan
+
+**Ferris State University** Big Rapids, MI
 
 Bachelor of Science in Computer Information Systems 2019 -- 2021
 
 Final GPA: 3.4
 
-> **Ferris State University** Big Rapids, MI
+**Ferris State University** Big Rapids, MI
 
 Bachelor of Science in Business Administration 2013 -- 2016
 
 Cumulative GPA: 3.2
 
-> **North Central Michigan College** Petoskey, MI
+ **North Central Michigan College** Petoskey, MI
 
 Associate of Applied Science in CIS 2010 -- 2013
 
@@ -32,19 +32,19 @@ PowerShell,SQL, TypeScript, VB.NET.
 Server, Bootstrap, Canva, Chrome &Mozilla Developer Tools, CLI, Docker,
 Figma, Oracle database.
 
-> **Planning and Collaboration:** Adobe Suite, Discord, GitHub, MS
-> Teams, MS Office, Skype, Slack, Trello,Visio, Webex, Zoom.
+ **Planning and Collaboration:** Adobe Suite, Discord, GitHub, MS
+ Teams, MS Office, Skype, Slack, Trello,Visio, Webex, Zoom.
 
 **IDEs:** Atom, Eclipse, PyCharm, VS Code.
 
-> **Cloud:** AWS, Google Cloud.
+ **Cloud:** AWS, Google Cloud.
 
 **I.T. & Networking:** Cisco Routers, Data Recovery, DHCP, DNS, Hardware
 & Software Deployment, Hardware Support, Linux, Network Configuration,
 Node.js, PowerShell, System Recovery, TCP/IP, Unix, VMware, Windows
 Server 2000 -- 2019, Windows OS 3.1 -- 11, macOS / OS X.
 
-> **Note:**
+ **Note:**
 
 Some systems used in a work-related capacity: HTML, CSS, CLI, Google
 Cloud, Windows OS and Server, MS Office, and Unix. Hotel Property
@@ -53,9 +53,9 @@ MARSHA, FOSSEE, Brilliant, and RoomKeyPMS.
 
 # Employment
 
-> **Holiday Inn Express** St. Ignace & Mackinaw City, MI
->
-> **Night Manager** *November 2008 -- March 2020*
+ **Holiday Inn Express** St. Ignace & Mackinaw City, MI
+
+ **Night Manager** *November 2008 -- March 2020*
 
 -   Employed at three different properties. Two IHG franchises and one
     independent resort, as Manager on Duty.
@@ -78,9 +78,9 @@ MARSHA, FOSSEE, Brilliant, and RoomKeyPMS.
 -   Trained in all hotel departments, including Front and Back Office
     Management, Maintenance, Night Audit, and Housekeeping.
 
-> **Hampton Inn Plover** *Plover, WI*
->
-> **Assistant General Manager** *February 2005 -- July 2008*
+ **Hampton Inn Plover** *Plover, WI*
+
+ **Assistant General Manager** *February 2005 -- July 2008*
 
 -   Coordinated Front Office training to exceed franchisee standards.
 
@@ -113,9 +113,9 @@ MARSHA, FOSSEE, Brilliant, and RoomKeyPMS.
 
 -   Ensured accuracy of the hotel's revenue and budget.
 
-> **Residence Inn** *Appleton, WI*
->
-> **Guest Service Agent** *April 2002 -- February 2005*
+ **Residence Inn** *Appleton, WI*
+
+ **Guest Service Agent** *April 2002 -- February 2005*
 
 -   Maintained 95% or higher guest satisfaction while increasing revenue
     and loyalty.
@@ -141,22 +141,22 @@ MARSHA, FOSSEE, Brilliant, and RoomKeyPMS.
     members for Project Management.
 
 -   Microsoft Technology Associate: Windows Operating System Essentials
-    > (98-364)
+     (98-364)
 
 -   Part time day trade investor in 2018 / 2019, totaling \$3.2 million
-    > in transactions over a 1.5-year period.
+     in transactions over a 1.5-year period.
 
 -   Member of production team in filming and assisting broadcast of
-    > council meetings for a city TV Station.
+     council meetings for a city TV Station.
 
 -   Developed several websites myself and as part of a team, using
-    > various frameworks and tech stacks.
+     various frameworks and tech stacks.
 
 -   Finished in the top 20 for a national business and marketing
-    > strategy competition.
+     strategy competition.
 
 -   On Dean's List or President's List every semester at Ferris State
-    > and NCMC.
+     and NCMC.
 
 -   Learned Cybersecurity best practices, and performed SQL
-    > vulnerability testing.
+     vulnerability testing.
