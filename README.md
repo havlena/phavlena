@@ -2,7 +2,7 @@
 
 ### Peter T Havlena
 
-  [pthavlena\@gmail.com \|](mailto:pthavlena@gmail.com) (616) 202-8143
+  [pthavlena\@gmail.com ](mailto:pthavlena@gmail.com) | (616) 202-8143
  \| Pellston, Michigan
 
  **Ferris State University** Big Rapids, MI
