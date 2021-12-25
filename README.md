@@ -137,7 +137,7 @@ Opera, Oracle PMS, MARSHA, FOSSEE, Brilliant, and RoomKeyPMS.
 -   Helped implement modern credit card processing equipment, and
     integrate with existing systems.
 
-# University & Other Experience
+# Additional Experience
 
 -   Part of a five-member team that built production software over the
     course of two semesters which involved planning and building a web
