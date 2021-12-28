@@ -1,7 +1,7 @@
-> Peter T Havlena
->
-> [pthavlena\@gmail.com \|](mailto:pthavlena@gmail.com) (616) 202-8143
-> \| Pellston, MI
+ Peter T Havlena
+
+ [pthavlena\@gmail.com \|](mailto:pthavlena@gmail.com) (616) 202-8143
+ \| Pellston, MI
 
 **Education**
 
@@ -11,13 +11,13 @@
 
 GPA: 3.4
 
-> **Ferris State University** Big Rapids, MI
+ **Ferris State University** Big Rapids, MI
 
 ***Bachelor of Science in Business Administration*** December 2016
 
 GPA: 3.2
 
-> **North Central Michigan College** Petoskey, MI
+ **North Central Michigan College** Petoskey, MI
 
 ***Associate of Applied Science in CIS*** May 2013
 
@@ -32,8 +32,8 @@ Node.js, PHP, Perl, PowerShell, SQL, TypeScript, Visual Basic.
 Angular, Apache Server, Bootstrap, Canva, Chrome & Mozilla Devtools,
 CLI, Docker, Figma, GitHub, MS SSMS, Oracle Database.
 
-> **Planning and Collaboration:** Discord, Google Workspace, MS Teams,
-> MS Office, Skype, Slack, TeamViewer, Trello, Visio, Webex, Zoom.
+ **Planning and Collaboration:** Discord, Google Workspace, MS Teams,
+ MS Office, Skype, Slack, TeamViewer, Trello, Visio, Webex, Zoom.
 
 **IDEs:** Atom, Eclipse, Netbeans, Notepad++, PyCharm, VS Code.
 
@@ -57,7 +57,7 @@ Problem Resolution, Research, Social Media, Time Management.
 **Current Projects:** Learning Go, Python, Data Analysis, and Cloud
 Computing. Developing a Personal and Portfolio Website / Blog.
 
-> **Technology used in a Direct Work-Related Capacity:**
+ **Technology used in a Direct Work-Related Capacity:**
 
 HTML, CSS, CLI / PowerShell, Google Workspace, Windows OS and Server, MS
 Office, Skype, and Unix.
@@ -67,9 +67,9 @@ Opera, Oracle PMS, MARSHA, FOSSEE, Brilliant, and RoomKeyPMS.
 
 # Employment
 
-> **Holiday Inn Express** St. Ignace & Mackinaw City, MI
->
-> ***Night Auditor and Manager on Duty*** November 2008 -- March 2020
+ **Holiday Inn Express** St. Ignace & Mackinaw City, MI
+
+ ***Night Auditor and Manager on Duty*** November 2008 -- March 2020
 
 -   Employed at three different properties. Two IHG franchises and one
     independent resort, as Manager on Duty.
@@ -93,9 +93,9 @@ Opera, Oracle PMS, MARSHA, FOSSEE, Brilliant, and RoomKeyPMS.
 -   Trained in all hotel departments, including Front and Back Office
     Management, Maintenance, Night Audit, and Housekeeping.
 
-> **Hampton Inn Plover** *Plover, WI*
->
-> ***Assistant General Manager*** February 2005 -- July 2008
+ **Hampton Inn Plover** *Plover, WI*
+
+ ***Assistant General Manager*** February 2005 -- July 2008
 
 -   Coordinated Front Office training to exceed franchisee standards.
 
@@ -126,9 +126,9 @@ Opera, Oracle PMS, MARSHA, FOSSEE, Brilliant, and RoomKeyPMS.
 -   Ensured accuracy of the hotel's budget to forward to our Management
     Group.
 
-> **Residence Inn** *Appleton, WI*
->
-> ***Guest Service Agent*** April 2002 -- February 2005
+ **Residence Inn** *Appleton, WI*
+
+ ***Guest Service Agent*** April 2002 -- February 2005
 
 -   Maintained 95% or higher guest satisfaction while increasing revenue
     and loyalty.
@@ -155,19 +155,19 @@ Opera, Oracle PMS, MARSHA, FOSSEE, Brilliant, and RoomKeyPMS.
     Angular, SCSS, HTML, TypeScript, and Trello.
 
 -   Microsoft Technology Associate: Windows Operating System Essentials
-    > (98-364).
+     (98-364).
 
 -   Part time day and swing trade investor in 2018 / 2019, totaling
-    > \$3.2 million in transactions.
+     \$3.2 million in transactions.
 
 -   Member of production team filming and broadcasting government
-    > meetings for a city TV Station.
+     meetings for a city TV Station.
 
 -   Developed several websites myself and as part of a team, using
-    > various frameworks and tech stacks.
+     various frameworks and tech stacks.
 
 -   Finished in the top 20 in a national business and marketing strategy
-    > competition.
+     competition.
 
 -   Dean's List and President's List every semester at Ferris State and
-    > NCMC.
+     NCMC.
