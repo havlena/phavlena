@@ -55,11 +55,10 @@ Goal Completion, Loyalty, Managing Ambiguity, Problem Identification,
 Problem Resolution, Research, Social Media, Time Management.
 
 **Current Projects:** Learning Go, Python, Data Analysis, and Cloud
-Computing. Developing a Personal and Portfolio Website / Blog.
+Computing. Developing a Personal Website and technology blog.
 
- **Technology used in a Direct Work-Related Capacity:**
-
-HTML, CSS, CLI / PowerShell, Google Workspace, Windows OS and Server, MS
+ **Technology used in a Direct Work-Related Capacity:** HTML, CSS,
+CLI / PowerShell, Google Workspace, Windows OS and Server, MS
 Office, Skype, and Unix.
 
 **Hotel PMS (Property Management Systems):** Holidex, Hilton OnQ, Micros
