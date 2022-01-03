@@ -5,19 +5,19 @@
 
 **Education**
 
-**Ferris State University** Big Rapids, MI
+### **Ferris State University** Big Rapids, MI
 
 ***Bachelor of Science in Computer Information Systems*** May 2021
 
 GPA: 3.4
 
- **Ferris State University** Big Rapids, MI
+### **Ferris State University** Big Rapids, MI
 
 ***Bachelor of Science in Business Administration*** December 2016
 
 GPA: 3.2
 
- **North Central Michigan College** Petoskey, MI
+### **North Central Michigan College** Petoskey, MI
 
 ***Associate of Applied Science in CIS*** May 2013
 
