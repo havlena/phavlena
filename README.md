@@ -170,5 +170,7 @@ Opera, Oracle PMS, MARSHA, FOSSEE, Brilliant, and RoomKeyPMS.
 
 -   Dean's List and President's List every semester at Ferris State and
      NCMC.
-     
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+        
+               
+               
+![visitors](https://visitor-badge.glitch.me/badge?page_id=phavlena&left_color=blue&right_color=purple)
