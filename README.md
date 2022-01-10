@@ -113,7 +113,7 @@ April 2002 – February 2005
 
 
 - Part of a five member team that built production software over the course of two semesters which involved planning and building a web application with large-scale web-scraping capabilities. Our software stack for this two-semester project was ASP.NET, Python, C#, Angular, CSS, HTML, TypeScript, and Trello.
-  - MTA Certification - Windows Operating System Essentials (98-364).
+ - MTA Certification - Windows Operating System Essentials (98-364).
 
 - Part time day and swing trade Investor in 2018 and 2019, totaling $3.2 million in trades.
 
