@@ -1,6 +1,6 @@
-Peter T Havlena
+### Peter T Havlena
 
-pthavlena@gmail.com | (616) 202-8143 | Pellston, MI
+## pthavlena@gmail.com | (616) 202-8143 | Pellston, MI
 
 
 
@@ -43,12 +43,11 @@ HTML, CSS, CLI / PowerShell, Google Workspace, Windows OS and Server, MS Office,
 **Employment**
 
 
-
 **Holiday Inn Express**
 
 **Night Auditor and Manager on Duty**
 
-
+
 
 St. Ignace & Mackinaw City, MI
 
@@ -70,7 +69,6 @@ November 2008 – March 2020
 
 **Assistant General Manager**
 
-
 
 *Plover, WI*
 
@@ -96,7 +94,6 @@ February 2005 – July 2008
 
 **Guest Service Agent**
 
-
 
 *Appleton, WI*
 
