@@ -15,8 +15,11 @@
 |**North Central Michigan College**|Petoskey, MI|
 |***Associate of Applied Science in CIS***|May 2013|
 |GPA: 3.69||
-|**Skills and University Experience**||
 
+      
+            
+            
+**Skills and University Experience**
 
 **Programming and Scripting:** C++, CSS, Go, Java, JavaScript, Markdown, Node.js, PHP, Perl, PowerShell, SQL, TypeScript, Visual Basic.
 
@@ -40,8 +43,7 @@ HTML, CSS, CLI / PowerShell, Google Workspace, Windows OS and Server, MS Office,
 
 **Hotel PMS (Property Management Systems):** Holidex, Hilton OnQ, Micros Opera, Oracle PMS, MARSHA, FOSSEE, Brilliant, and RoomKeyPMS.
 
-**Employment**
-
+## **Employment**
 
 **Holiday Inn Express**
 
