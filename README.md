@@ -1,7 +1,25 @@
 # Peter T Havlena
 
-## pthavlena@gmail.com | (616) 202-8143 | Pellston, MI
+## pthavlena@gmail.com
+## Pellston, Michigan, USA
 
+[![Link to my Twitter][1.1]][1]
+[![Link to my Facebook][2.1]][2]
+[![Link to my LinkedIn][3.1]][3]
+[![Link to my Instagram][4.1]][4]
+[![Link to my Pinterest][5.1]][5]
+
+[1.1]: https://imgur.com/9OFMgnc.png (Twitter icon)
+[2.1]: https://imgur.com/uYlHHh4.png (Facebook icon)
+[3.1]: https://imgur.com/wS35PmH.png (LinkedIn icon)
+[4.1]: https://imgur.com/gBfggL9.png (Instagram icon)
+[5.1]: https://imgur.com/KHJZvML.png (Pinterest icon)
+
+[1]: https://www.twitter.com/pthavlena
+[2]: https://www.facebook.com/havlena
+[3]: https://www.linkedin.com/pthavlena
+[4]: https://www.instagram.com/peterhavlena
+[5]: https://www.pinterest.com/peterhavlena
 
 
 |**Education**||
@@ -15,9 +33,7 @@
 |**North Central Michigan College**|Petoskey, MI|
 |***Associate of Applied Science in CIS***|May 2013|
 |GPA: 3.69||
-
-      
-            
+                     
             
 **Skills and University Experience**
 
@@ -63,7 +79,6 @@ November 2008 – March 2020
 - Performed Night Audit to ensure accurate records and turn the business day of multiple systems.
 - Regularly assisted and collaborated with ownership and contributed to business decisions.
 - Delivered exceptional service to ensure guest satisfaction.
-
 - Trained in all hotel departments, including Front and Back Office Management, Maintenance, Night Audit, and Housekeeping.
 
 
@@ -87,7 +102,6 @@ February 2005 – July 2008
 - Helped GM with scheduling for other departments.
 - Negotiated corporate rate contract and helped our Sales Manager track revenue trends.
 - Collaborated with members of the Hotel’s Management Group and Owners.
-
 - Helped with Marketing for a newly built adjacent shopping development where the hotel was built.
 - Ensured accuracy of the hotel’s budget to forward to our Management Group.
 
@@ -103,16 +117,13 @@ April 2002 – February 2005
 
 
 - Maintained 95% or higher guest satisfaction while increasing revenue and loyalty.
-
 - Learned the major aspects of working in the hotel industry, including the methodology behind guest service, and the computer systems and other tools needed to work in the hospitality business.
-
 - Upgraded to a new PMS and helped train employees on the new system.
 - Underwent training in all hotel departments.
 - Assisted in Revenue Tracking and maintaining ADR and Revpar.
 - Helped implement modern credit card processing equipment, and integrate with existing systems.
 
 **Additional Experience**
-
 
 - Part of a five member team that built production software over the course of two semesters which involved planning and building a web application with large-scale web-scraping capabilities. Our software stack for this two-semester project was ASP.NET, Python, C#, Angular, CSS, HTML, TypeScript, and Trello.
 - MTA Certification - Windows Operating System Essentials (98-364).
