@@ -1,7 +1,7 @@
 # Peter T Havlena
 
 ## pthavlena@gmail.com
-## Pellston, Michigan, USA
+## Pellston, Michigan, United States of America
 
 <kbd>[![Link to my Twitter][1.1]][1]
 [![Link to my Facebook][2.1]][2]
