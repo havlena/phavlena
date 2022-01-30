@@ -3,11 +3,12 @@
 ## pthavlena@gmail.com
 ## Pellston, Michigan, USA
 
-[![Link to my Twitter][1.1]][1]
+<kbd>[![Link to my Twitter][1.1]][1]
 [![Link to my Facebook][2.1]][2]
 [![Link to my LinkedIn][3.1]][3]
 [![Link to my Instagram][4.1]][4]
 [![Link to my Pinterest][5.1]][5]
+  </kbd>
 
 [1.1]: https://imgur.com/9OFMgnc.png (Twitter icon)
 [2.1]: https://imgur.com/uYlHHh4.png (Facebook icon)
